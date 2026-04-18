@@ -3,38 +3,10 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-04-18T21:55:59+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://www.fassbender.studio</id>
 
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Leon Fassbender</name>
-        </author>
-        <link href="https://www.fassbender.studio/test-post/"/>
-        <id>https://www.fassbender.studio/test-post/</id>
-        <media:content url="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" medium="image" />
-            <category term="Work"/>
-            <category term="Logo"/>
-            <category term="Brand Identity"/>
-
-        <updated>2026-04-18T18:29:02+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" alt="" />
-                    Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="ds-markdown-paragraph"><strong>Paragraph 1</strong><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<p class="ds-markdown-paragraph"><strong>Paragraph 2</strong><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p class="ds-markdown-paragraph"><strong>Paragraph 3</strong><br>Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin maurus. Integer in mauris eu nibh euismod gravida.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
