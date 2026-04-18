@@ -3,7 +3,7 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-04-18T19:30:25+02:00</updated>
+    <updated>2026-04-18T21:55:59+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
@@ -25,15 +25,15 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" alt="" />
-                    Lunatti is a fashion brand characterised by a design approach that marries&hellip;
+                    Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">Lunatti is a fashion brand characterised by a design approach that marries contemporary trends with timeless elegance.</p>
-<p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">The project brief called for understated distinction to create a sense of trust while giving prominence to the garments.</p>
-<p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">kkkkTwo wordmarks—primary and secondary—were designed for use. The contrasting line weights and bespoke letterforms in the primary option create a contemporary feel, while the secondary, cursive design is crafted from handwriting samples supplied by the client, giving added ownership and personality. Both wordmarks are supplemented with a brand symbol that’s ideal for use in small spaces, and all elements are displayed in a muted, minimal palette for a high-end impression.</p>
+                <p class="ds-markdown-paragraph"><strong>Paragraph 1</strong><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p class="ds-markdown-paragraph"><strong>Paragraph 2</strong><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="ds-markdown-paragraph"><strong>Paragraph 3</strong><br>Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin maurus. Integer in mauris eu nibh euismod gravida.</p>
             ]]>
         </content>
     </entry>
