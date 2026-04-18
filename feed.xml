@@ -3,10 +3,38 @@
     <title>Fassbender</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-04-18T18:41:16+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://www.fassbender.studio</id>
 
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Leon Fassbender</name>
+        </author>
+        <link href="https://www.fassbender.studio/test-post.html"/>
+        <id>https://www.fassbender.studio/test-post.html</id>
+        <media:content url="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" medium="image" />
+            <category term="Work"/>
+            <category term="Logo"/>
+            <category term="Brand Identity"/>
+
+        <updated>2026-04-18T18:29:02+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" alt="" />
+                    Lunatti is a fashion brand characterised by a design approach that marries&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">Lunatti is a fashion brand characterised by a design approach that marries contemporary trends with timeless elegance.</p>
+<p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">The project brief called for understated distinction to create a sense of trust while giving prominence to the garments.</p>
+<p style="font-size: 0.667rem; line-height: 1rem; text-align: start;" data-font-size-lg="0.667rem" data-line-height-lg="1.000rem" data-font-size-md="0.667rem" data-line-height-md="1.000rem" data-font-size-sm="0.667rem" data-line-height-sm="1.000rem" data-font-size-xs="0.667rem" data-line-height-xs="1.000rem" data-font-size-xl="0.833rem" data-line-height-xl="1.222rem" data-text-align-xl="start">Two wordmarks—primary and secondary—were designed for use. The contrasting line weights and bespoke letterforms in the primary option create a contemporary feel, while the secondary, cursive design is crafted from handwriting samples supplied by the client, giving added ownership and personality. Both wordmarks are supplemented with a brand symbol that’s ideal for use in small spaces, and all elements are displayed in a muted, minimal palette for a high-end impression.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
