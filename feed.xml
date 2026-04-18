@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Fassbender</title>
+    <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
     <updated>2026-04-18T18:41:16+02:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Leon Fassbender</name>
         </author>
-        <link href="https://www.fassbender.studio/test-post.html"/>
-        <id>https://www.fassbender.studio/test-post.html</id>
+        <link href="https://www.fassbender.studio/test-post/"/>
+        <id>https://www.fassbender.studio/test-post/</id>
         <media:content url="https://www.fassbender.studio/media/posts/7/clay-banks-Hnec2oEbbxk-unsplash.jpg" medium="image" />
             <category term="Work"/>
             <category term="Logo"/>
