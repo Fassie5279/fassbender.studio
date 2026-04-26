@@ -3,37 +3,10 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-04-22T22:21:42+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://www.fassbender.studio</id>
 
-    <entry>
-        <title>Brushing up my vector skills </title>
-        <author>
-            <name>Leon Fassbender</name>
-        </author>
-        <link href="https://www.fassbender.studio/brushing-up-my-vector-skills/"/>
-        <id>https://www.fassbender.studio/brushing-up-my-vector-skills/</id>
-        <media:content url="https://www.fassbender.studio/media/posts/9/Affinity-2.png" medium="image" />
-            <category term="vector"/>
-            <category term="Affinity Design"/>
-
-        <updated>2026-04-22T22:20:05+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.fassbender.studio/media/posts/9/Affinity-2.png" alt="" />
-                    It has always been a dream of mine to be able to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.fassbender.studio/media/posts/9/Affinity-2.png" class="type:primaryImage" alt="" /></p>
-                <p>It has always been a dream of mine to be able to create any logo or complete brand identity I want in a vector program. I've been dabbling and playing around on an off with different apps like Illustrator, Inkscape and now, Affinity. I have a lot of ideas in my head for designs and I just want to build those best I can. In order for me to brush up my vector skills, I'm now taking "<a href="https://www.udemy.com/course/how-to-make-logos-in-affinity-designer" target="_blank" rel="noopener noreferrer">How to Make Logos in Affinity Designer</a>", by Affinity Revolution. </p>
-<figure class="post__image"><img loading="lazy"  src="https://www.fassbender.studio/media/posts/9//Affinity.png" alt="" width="1610" height="327" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.fassbender.studio/media/posts/9//responsive/Affinity-xs.png 300w ,https://www.fassbender.studio/media/posts/9//responsive/Affinity-sm.png 480w ,https://www.fassbender.studio/media/posts/9//responsive/Affinity-md.png 768w ,https://www.fassbender.studio/media/posts/9//responsive/Affinity-lg.png 1024w"></figure>
-<p>Even though the course may look "simple" and is aimed at beginners, that's exactly what I need now! I will be logging my progress in the course here. Stay tuned!  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
