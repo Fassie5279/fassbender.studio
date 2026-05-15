@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://www.fassbender.studio/i-created-an-italian-music-album-with-suno/",
+            "url": "https://www.fassbender.studio/i-created-an-italian-music-album-with-suno/",
+            "title": "I created an Italian Music Album with Suno",
+            "image": "https://www.fassbender.studio/media/posts/20/cani-e-gatti.png",
+            "author": {
+                "name": "Leon Fassbender"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-15T12:59:56+02:00",
+            "date_modified": "2026-05-15T12:59:56+02:00"
+        },
+        {
             "id": "https://www.fassbender.studio/some-thoughts-on-reality-god-and-finding-truth/",
             "url": "https://www.fassbender.studio/some-thoughts-on-reality-god-and-finding-truth/",
             "title": "How I Understand Reality And God",

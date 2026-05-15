@@ -3,12 +3,25 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-05-15T12:40:34+02:00</updated>
+    <updated>2026-05-15T12:59:56+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://www.fassbender.studio</id>
 
+    <entry>
+        <title>I created an Italian Music Album with Suno</title>
+        <author>
+            <name>Leon Fassbender</name>
+        </author>
+        <link href="https://www.fassbender.studio/i-created-an-italian-music-album-with-suno/"/>
+        <id>https://www.fassbender.studio/i-created-an-italian-music-album-with-suno/</id>
+        <media:content url="https://www.fassbender.studio/media/posts/20/cani-e-gatti.png" medium="image" />
+
+        <updated>2026-05-15T12:59:56+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How I Understand Reality And God</title>
         <author>
