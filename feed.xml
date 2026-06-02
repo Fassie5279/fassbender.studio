@@ -3,7 +3,7 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-06-02T16:16:53+02:00</updated>
+    <updated>2026-06-02T19:18:28+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
@@ -66,11 +66,14 @@
 <li><strong data-path-to-node="22,1,0" data-index-in-node="0">A Distinct Palette:</strong> Most competitors rely on safe, binary black-and-white palettes. We chose to differentiate using a rich, premium color scheme that still honors the wellness ethos.<br><br></li>
 <li><strong data-path-to-node="22,2,0" data-index-in-node="0">Modern Typography:</strong> To prevent words like "Grand" and "Residency" from feeling archaic, we selected a contemporary sans-serif font to keep the visual identity modern, confident, and appealing to a sophisticated audience.</li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://www.fassbender.studio/media/posts/22/moodboard.webp" alt="" width="1200" height="703" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.fassbender.studio/media/posts/22/responsive/moodboard-xs.webp 300w ,https://www.fassbender.studio/media/posts/22/responsive/moodboard-sm.webp 480w ,https://www.fassbender.studio/media/posts/22/responsive/moodboard-md.webp 768w ,https://www.fassbender.studio/media/posts/22/responsive/moodboard-lg.webp 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.fassbender.studio/media/posts/22/mood.webp" alt="" width="1200" height="677" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.fassbender.studio/media/posts/22/responsive/mood-xs.webp 300w ,https://www.fassbender.studio/media/posts/22/responsive/mood-sm.webp 480w ,https://www.fassbender.studio/media/posts/22/responsive/mood-md.webp 768w ,https://www.fassbender.studio/media/posts/22/responsive/mood-lg.webp 1024w"></figure>
 <hr>
 <h2>The Design Process</h2>
 <h3 data-path-to-node="25">Conceptual Sketches</h3>
 <p>Sketching on paper remains the fastest way to explore concepts without the constraints of digital software. I generated approximately 60 sketches, focusing on two foundational geometric shapes—the circle and the quarter-circle—to visually translate our core keywords.</p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://www.fassbender.studio/media/posts/22/gallery/Page-1.webp" data-size="1123x794"><img loading="lazy" src="https://www.fassbender.studio/media/posts/22/gallery/Page-1-thumbnail.webp" alt="" width="768" height="543"></a></figure>
 <figure class="gallery__item"><a href="https://www.fassbender.studio/media/posts/22/gallery/sketches-3-2.jpeg" data-size="2048x1536"><img loading="lazy" src="https://www.fassbender.studio/media/posts/22/gallery/sketches-3-2-thumbnail.webp" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://www.fassbender.studio/media/posts/22/gallery/sketches-2-2.jpeg" data-size="2048x1536"><img loading="lazy" src="https://www.fassbender.studio/media/posts/22/gallery/sketches-2-2-thumbnail.webp" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://www.fassbender.studio/media/posts/22/gallery/sketches-1-2.jpeg" data-size="2048x1536"><img loading="lazy" src="https://www.fassbender.studio/media/posts/22/gallery/sketches-1-2-thumbnail.webp" alt="" width="768" height="576"></a></figure>
