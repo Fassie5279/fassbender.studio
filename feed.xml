@@ -3,7 +3,7 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-06-02T09:36:38+02:00</updated>
+    <updated>2026-06-02T10:10:03+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
@@ -17,10 +17,7 @@
         <link href="https://www.fassbender.studio/grand-neuma-collective-brand-identity/"/>
         <id>https://www.fassbender.studio/grand-neuma-collective-brand-identity/</id>
         <media:content url="https://www.fassbender.studio/media/posts/22/bigbanner.webp" medium="image" />
-            <category term="Work"/>
             <category term="Portfolio"/>
-            <category term="Logo"/>
-            <category term="Brand Identity"/>
 
         <updated>2026-05-28T21:12:46+02:00</updated>
             <summary type="html">
@@ -70,7 +67,7 @@
 <figure class="post__image"><img loading="lazy"  src="https://www.fassbender.studio/media/posts/22/explain.webp" alt="" width="900" height="785" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.fassbender.studio/media/posts/22/responsive/explain-xs.webp 300w ,https://www.fassbender.studio/media/posts/22/responsive/explain-sm.webp 480w ,https://www.fassbender.studio/media/posts/22/responsive/explain-md.webp 768w ,https://www.fassbender.studio/media/posts/22/responsive/explain-lg.webp 1024w"></figure>
 <h3 style="margin-top: 2.28571rem; color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: -0.54px; font-size: 1.42383em;"></h3>
 <figure class="post__image"><img loading="lazy"  src="https://www.fassbender.studio/media/posts/22/alldesigns.webp" alt="" width="1200" height="299" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.fassbender.studio/media/posts/22/responsive/alldesigns-xs.webp 300w ,https://www.fassbender.studio/media/posts/22/responsive/alldesigns-sm.webp 480w ,https://www.fassbender.studio/media/posts/22/responsive/alldesigns-md.webp 768w ,https://www.fassbender.studio/media/posts/22/responsive/alldesigns-lg.webp 1024w"></figure>
-<p class="msg msg--success">I tried many other designs on the computer but I think the moon and sun logo had the most potential. </p>
+<p class="msg msg--success">I tried many other designs on the computer but I the moon and sun logo had the most potential. </p>
 <h4></h4>
 <h3 data-path-to-node="30">The Hidden Visual (Negative Space)</h3>
 <p data-path-to-node="31">A powerful secondary detail emerges within the negative space between the moon crescents and the central sun. The white space forms the silhouette of the <i data-path-to-node="31" data-index-in-node="154">Parvatasana</i> (the Seated Mountain Pose in Yoga), where the circle becomes the head and the crescents mimic hands extended upward. This posture promotes deep breathing and mental focus, aligning perfectly with the Neuma brand</p>
