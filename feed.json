@@ -24,6 +24,19 @@
             ],
             "date_published": "2026-06-12T23:00:00+02:00",
             "date_modified": "2026-06-12T23:00:00+02:00"
+        },
+        {
+            "id": "https://www.fassbender.studio/test-2/",
+            "url": "https://www.fassbender.studio/test-2/",
+            "title": "Test ",
+            "summary": "Test ",
+            "author": {
+                "name": "Leon Fassbender"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-12T11:01:43+02:00",
+            "date_modified": "2026-06-12T11:01:43+02:00"
         }
     ]
 }
