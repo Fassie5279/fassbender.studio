@@ -3,23 +3,35 @@
     <title>Fassbender Studio</title>
     <link href="https://www.fassbender.studio/feed.xml" rel="self" />
     <link href="https://www.fassbender.studio" />
-    <updated>2026-06-10T19:20:31+02:00</updated>
+    <updated>2026-06-12T10:34:02+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://www.fassbender.studio</id>
 
     <entry>
-        <title>The Neuma Grand Residency </title>
+        <title>The Neuma Grand Residency Case Study</title>
         <author>
             <name>Leon Fassbender</name>
         </author>
         <link href="https://www.fassbender.studio/grand-neuma-collective-brand-identity/"/>
         <id>https://www.fassbender.studio/grand-neuma-collective-brand-identity/</id>
         <media:content url="https://www.fassbender.studio/media/posts/22/bigbanner-3.webp" medium="image" />
+            <category term="Wellness Branding "/>
+            <category term="VisualIdentity"/>
+            <category term="Visual Identity System "/>
+            <category term="Typography"/>
+            <category term="Luxury Hospitality"/>
+            <category term="LogoDesign"/>
+            <category term="Logo Design"/>
+            <category term="Hospitality Design"/>
+            <category term="DesignThinking"/>
+            <category term="Design Process"/>
+            <category term="Case Study"/>
+            <category term="Brand Strategy"/>
             <category term="Brand Identity"/>
 
-        <updated>2026-05-28T21:12:46+02:00</updated>
+        <updated>2026-06-12T10:34:02+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://www.fassbender.studio/media/posts/22/bigbanner-3.webp" alt="grand neuma collective mark " />
